@@ -1,4 +1,4 @@
-# austin-animal-shelter-r
+# Austin Animal Shelter Simulation in R
 A statistical project that uses simulation to answer real-life potential questions related to the Austin Animal Shelter, TX. In collaboration with Nathan Le.  
 Main methods used: statistical simulation under different distributions, bootstrapping, data cleaning.  
 The presentation related to this project can be found [here](https://drive.google.com/file/d/18DPbWX9XvpsuvG9rG6mFfyRdEU_MVzli/view?usp=share_link)
